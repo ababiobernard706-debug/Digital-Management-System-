@@ -6,4 +6,5 @@ A simple attendance management system implemented in C++.
 - VS Code
 - C++ Compiler 
 
-## Author
+01243687D
+Ababio Bernard kodjo Akoto
